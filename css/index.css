@@ -1,0 +1,8 @@
+html, body {
+  color: "red";
+  width: "100px";
+}
+
+html div, body div {
+  color: "red";
+}

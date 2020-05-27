@@ -1,0 +1,10 @@
+$color:"red";
+$width:"100px";
+html,body{
+    color: $color;
+    width: $width;
+    div{
+        color: $color;
+        font-size: 12rpx;
+    }
+}
